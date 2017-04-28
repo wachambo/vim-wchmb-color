@@ -63,7 +63,7 @@ exec "hi TabLineSel   ctermfg=".fg1."   ctermbg=NONE       cterm=Bold"
 exec "hi TabLineFill  ctermfg=".gray1." ctermbg=".gray1."  cterm=NONE"
 exec "hi CursorColumn ctermfg=NONE      ctermbg=NONE       cterm=NONE"
 exec "hi CursorLine   ctermfg=NONE      ctermbg=NONE       cterm=Underline"
-exec "hi ColorColumn  ctermfg=NONE      ctermbg=".gray2."  cterm=NONE"
+exec "hi ColorColumn  ctermfg=NONE      ctermbg=NONE       cterm=Underline,Bold"
 exec "hi Cursor       ctermfg=Red       ctermbg=Green      cterm=NONE"
 
 " Syntax hightlight
