@@ -3,7 +3,13 @@
 wchmb is a black and white color scheme for Vim focused on avoiding
 distractions.
 
-TODO: put images here
+C/C++:
+![Light](light.png)
+* Code from [curl](https://curl.haxx.se/)
+
+VimL:
+![Dark](dark.png)
+
 
 ## Features
 - Minimal amount of colors
