@@ -5,7 +5,7 @@ distractions.
 
 ### C/C++:
 
-![Light](light.png | width=100)
+![Light](light.png)
 
 *Code from [curl](https://curl.haxx.se/)
 
